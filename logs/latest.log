@@ -1,0 +1,100 @@
+[00:20:23] [Server thread/INFO]: Starting minecraft server version 1.10.2
+[00:20:23] [Server thread/WARN]: To start the server with more ram, launch it as "java -Xmx1024M -Xms1024M -jar minecraft_server.jar"
+[00:20:23] [Server console handler/ERROR]: Exception handling console input
+java.io.IOException: 控制代碼無效。
+	at java.io.FileInputStream.readBytes(Native Method) ~[?:1.8.0_73]
+	at java.io.FileInputStream.read(Unknown Source) ~[?:1.8.0_73]
+	at java.io.BufferedInputStream.read1(Unknown Source) ~[?:1.8.0_73]
+	at java.io.BufferedInputStream.read(Unknown Source) ~[?:1.8.0_73]
+	at sun.nio.cs.StreamDecoder.readBytes(Unknown Source) ~[?:1.8.0_73]
+	at sun.nio.cs.StreamDecoder.implRead(Unknown Source) ~[?:1.8.0_73]
+	at sun.nio.cs.StreamDecoder.read(Unknown Source) ~[?:1.8.0_73]
+	at java.io.InputStreamReader.read(Unknown Source) ~[?:1.8.0_73]
+	at java.io.BufferedReader.fill(Unknown Source) ~[?:1.8.0_73]
+	at java.io.BufferedReader.readLine(Unknown Source) ~[?:1.8.0_73]
+	at java.io.BufferedReader.readLine(Unknown Source) ~[?:1.8.0_73]
+	at net.minecraft.server.dedicated.DedicatedServer$2.run(DedicatedServer.java:101) [ld$2.class:?]
+[00:20:35] [Server thread/INFO]: Loading properties
+[00:20:35] [Server thread/INFO]: Default game type: SURVIVAL
+[00:20:35] [Server thread/INFO]: Generating keypair
+[00:20:35] [Server thread/INFO]: Starting Minecraft server on *:25565
+[00:20:35] [Server thread/INFO]: Using default channel type
+[00:20:36] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[00:20:36] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[00:20:36] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[00:20:36] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[00:20:38] [Server thread/INFO]: Preparing level "world"
+[00:20:40] [Server thread/INFO]: Preparing start region for level 0
+[00:20:41] [Server thread/INFO]: Preparing spawn area: 0%
+[00:20:42] [Server thread/INFO]: Preparing spawn area: 17%
+[00:20:43] [Server thread/INFO]: Preparing spawn area: 43%
+[00:20:44] [Server thread/INFO]: Preparing spawn area: 61%
+[00:20:45] [Server thread/INFO]: Preparing spawn area: 93%
+[00:20:45] [Server thread/INFO]: Done (7.440s)! For help, type "help" or "?"
+[00:20:51] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 4995ms behind, skipping 99 tick(s)
+[00:20:54] [Server thread/INFO]: Love_CoCo[/127.0.0.1:7457] logged in with entity id 468 at (218.5, 64.0, 243.5)
+[00:20:54] [Server thread/INFO]: Love_CoCo joined the game
+[00:21:04] [Server thread/INFO]: Sanarasha[/25.84.164.75:63764] logged in with entity id 472 at (216.5, 64.0, 245.5)
+[00:21:04] [Server thread/INFO]: Sanarasha joined the game
+[00:21:08] [Server thread/INFO]: Love_CoCo has just earned the achievement [Taking Inventory]
+[00:21:21] [Server thread/INFO]: Opped Love_CoCo
+[00:21:33] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 20124ms behind, skipping 402 tick(s)
+[00:21:33] [Server thread/INFO]: [Love_CoCo: Set own game mode to Creative Mode]
+[00:21:48] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 4636ms behind, skipping 92 tick(s)
+[00:21:49] [Server thread/INFO]: Love_CoCo has just earned the achievement [Getting Wood]
+[00:21:49] [Server thread/INFO]: Love_CoCo has just earned the achievement [Benchmarking]
+[00:21:49] [Server thread/INFO]: Love_CoCo has just earned the achievement [Time to Strike!]
+[00:21:49] [Server thread/INFO]: Love_CoCo has just earned the achievement [Fighting Spirit]
+[00:21:49] [Server thread/INFO]: Love_CoCo has just earned the achievement [Dirt]
+[00:21:55] [Server thread/INFO]: Sanarasha was slain by Love_CoCo using [利刀「無名」紅玉]
+[00:22:00] [Server thread/INFO]: [Love_CoCo: Opped Sanarasha]
+[00:22:09] [Server thread/INFO]: [Sanarasha: Set own game mode to Creative Mode]
+[00:22:09] [Server thread/INFO]: Sanarasha has just earned the achievement [Taking Inventory]
+[00:22:20] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 16140ms behind, skipping 322 tick(s)
+[00:22:38] [Server thread/WARN]: Keeping entity shincolle.EntityBattleshipYMT that already exists with UUID 90481cf0-7cf8-4daa-897d-5d2d86dd691b
+[00:23:38] [Server thread/WARN]: Keeping entity shincolle.EntityBattleshipYMTMob that already exists with UUID 279a6756-60d8-4321-9939-258fc15c17c0
+[00:24:07] [Server thread/INFO]: Sanarasha has just earned the achievement [Getting Wood]
+[00:24:07] [Server thread/INFO]: Sanarasha has just earned the achievement [Benchmarking]
+[00:24:07] [Server thread/INFO]: Sanarasha has just earned the achievement [Time to Strike!]
+[00:24:07] [Server thread/INFO]: Sanarasha has just earned the achievement [Fighting Spirit]
+[00:24:07] [Server thread/INFO]: Sanarasha has just earned the achievement [Dirt]
+[00:24:13] [Server thread/INFO]: Sanarasha has just earned the achievement [Coal]
+[00:24:13] [Server thread/INFO]: Sanarasha has just earned the achievement [Bedrock]
+[00:24:19] [Server thread/WARN]: Keeping entity shincolle.EntityBattleshipYMT that already exists with UUID 35679b60-230f-48ea-bc30-c01091cafae3
+[00:24:21] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 6464ms behind, skipping 129 tick(s)
+[00:24:23] [Server thread/INFO]: Sanarasha has just earned the achievement [Proud Soul]
+[00:24:23] [Server thread/INFO]: Sanarasha has just earned the achievement [force fragment]
+[00:24:25] [Server thread/INFO]: Sanarasha has just earned the achievement [Tiny piece]
+[00:24:37] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 4496ms behind, skipping 89 tick(s)
+[00:24:50] [Netty Server IO #2/INFO]: Sanarasha has just earned the achievement [Summoned Swords]
+[00:24:59] [Server thread/INFO]: Sanarasha has just earned the achievement [Air]
+[00:24:59] [Server thread/INFO]: Sanarasha has just earned the achievement [Snow]
+[00:24:59] [Server thread/INFO]: Sanarasha has just earned the achievement [Soul Sand]
+[00:24:59] [Server thread/INFO]: Sanarasha has just earned the achievement [Stylish Sharpness Slashblade]
+[00:25:08] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2371ms behind, skipping 47 tick(s)
+[00:25:38] [Server thread/WARN]: Keeping entity shincolle.EntityBattleshipYMT that already exists with UUID 4f676246-e5c1-4967-8d7e-e40e425872ad
+[00:25:46] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 18521ms behind, skipping 370 tick(s)
+[00:25:50] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2459ms behind, skipping 49 tick(s)
+[00:26:23] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 4216ms behind, skipping 84 tick(s)
+[00:26:35] [Server thread/WARN]: Sanarasha moved too quickly! 3.908027596846523,1.0135779630766564,-9.496622019848758
+[00:26:37] [Server thread/WARN]: Sanarasha moved too quickly! 0.5703756356944041,-10.355912096404566,-1.871875393096218
+[00:26:43] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 6535ms behind, skipping 130 tick(s)
+[00:27:01] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 5479ms behind, skipping 109 tick(s)
+[00:27:02] [Server thread/WARN]: Sanarasha moved too quickly! -2.458436761055225,0.0,10.333478061311382
+[00:27:31] [Server thread/WARN]: Love_CoCo moved too quickly! -8.029590210405132,6.153439558664616,-1.891388622139175
+[00:27:48] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 27901ms behind, skipping 558 tick(s)
+[00:27:51] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3402ms behind, skipping 68 tick(s)
+[00:28:21] [Server thread/INFO]: <Love_CoCo> save-on
+[00:28:24] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 19951ms behind, skipping 399 tick(s)
+[00:28:28] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3767ms behind, skipping 75 tick(s)
+[00:28:39] [Server thread/WARN]: Love_CoCo moved too quickly! -6.356767372346383,0.0,7.76764432469821
+[00:28:40] [Server thread/INFO]: Sanarasha lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[00:28:40] [Server thread/INFO]: Sanarasha left the game
+[00:28:47] [Server thread/INFO]: [Love_CoCo: Stopping the server]
+[00:28:56] [Server thread/INFO]: Stopping server
+[00:28:56] [Server thread/INFO]: Saving players
+[00:28:56] [Server thread/INFO]: Saving worlds
+[00:28:56] [Server thread/INFO]: Saving chunks for level 'world'/Overworld
+[00:28:58] [Server thread/INFO]: Saving chunks for level 'world'/Nether
+[00:28:58] [Server thread/INFO]: Saving chunks for level 'world'/The End
+[00:28:59] [Server Shutdown Thread/INFO]: Stopping server

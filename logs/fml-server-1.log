@@ -1,0 +1,137 @@
+[00:13:16] [main/DEBUG] [FML/]: Injecting tracing printstreams for STDOUT/STDERR.
+[00:13:17] [main/INFO] [FML/]: Forge Mod Loader version 12.18.3.2185 for Minecraft 1.10.2 loading
+[00:13:17] [main/INFO] [FML/]: Java is Java HotSpot(TM) Client VM, version 1.8.0_73, running on Windows 10:x86:10.0, installed at C:\Program Files (x86)\Java\jre1.8.0_73
+[00:13:17] [main/DEBUG] [FML/]: Java classpath at launch is F:\Minecraft\Server\1.10.2MOD\forge-1.10.2-12.18.3.2185-universal.jar
+[00:13:17] [main/DEBUG] [FML/]: Java library path at launch is C:\Program Files (x86)\Java\jre1.8.0_73\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\ProgramData\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Users\USER\AppData\Local\Microsoft\WindowsApps;C:\Users\USER\AppData\Local\Google\Cloud SDK\google-cloud-sdk\bin;.
+[00:13:17] [main/DEBUG] [FML/]: Enabling runtime deobfuscation
+[00:13:17] [main/DEBUG] [FML/]: Instantiating coremod class FMLCorePlugin
+[00:13:17] [main/DEBUG] [FML/]: Added access transformer class net.minecraftforge.fml.common.asm.transformers.AccessTransformer to enqueued access transformers
+[00:13:17] [main/DEBUG] [FML/]: Enqueued coremod FMLCorePlugin
+[00:13:17] [main/DEBUG] [FML/]: Instantiating coremod class FMLForgePlugin
+[00:13:17] [main/DEBUG] [FML/]: Enqueued coremod FMLForgePlugin
+[00:13:17] [main/DEBUG] [FML/]: All fundamental core mods are successfully located
+[00:13:17] [main/DEBUG] [FML/]: Attempting to load commandline specified mods, relative to F:\Minecraft\Server\1.10.2MOD\.
+[00:13:17] [main/DEBUG] [FML/]: Discovering coremods
+[00:13:17] [main/INFO] [LaunchWrapper/]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[00:13:17] [main/INFO] [LaunchWrapper/]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
+[00:13:17] [main/INFO] [LaunchWrapper/]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[00:13:17] [main/INFO] [LaunchWrapper/]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[00:13:17] [main/INFO] [LaunchWrapper/]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[00:13:17] [main/DEBUG] [FML/]: Injecting coremod FMLCorePlugin {net.minecraftforge.fml.relauncher.FMLCorePlugin} class transformers
+[00:13:17] [main/TRACE] [FML/]: Registering transformer net.minecraftforge.fml.common.asm.transformers.BlamingTransformer
+[00:13:17] [main/TRACE] [FML/]: Registering transformer net.minecraftforge.fml.common.asm.transformers.SideTransformer
+[00:13:17] [main/TRACE] [FML/]: Registering transformer net.minecraftforge.fml.common.asm.transformers.EventSubscriptionTransformer
+[00:13:17] [main/TRACE] [FML/]: Registering transformer net.minecraftforge.fml.common.asm.transformers.EventSubscriberTransformer
+[00:13:17] [main/DEBUG] [FML/]: Injection complete
+[00:13:17] [main/DEBUG] [FML/]: Running coremod plugin for FMLCorePlugin {net.minecraftforge.fml.relauncher.FMLCorePlugin}
+[00:13:17] [main/DEBUG] [FML/]: Running coremod plugin FMLCorePlugin
+[00:13:18] [main/DEBUG] [FML/]: Read 914 binary patches
+[00:13:18] [main/DEBUG] [FML/]: Loading deobfuscation resource /deobfuscation_data-1.10.2.lzma with 32371 records
+[00:13:19] [main/INFO] [FML/]: Found valid fingerprint for Minecraft Forge. Certificate fingerprint e3c3d50c7c986df74c645c0ac54639741c90a557
+[00:13:19] [main/DEBUG] [FML/]: Coremod plugin class FMLCorePlugin run successfully
+[00:13:19] [main/INFO] [LaunchWrapper/]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[00:13:19] [main/DEBUG] [FML/]: Injecting coremod FMLForgePlugin {net.minecraftforge.classloading.FMLForgePlugin} class transformers
+[00:13:19] [main/DEBUG] [FML/]: Injection complete
+[00:13:19] [main/DEBUG] [FML/]: Running coremod plugin for FMLForgePlugin {net.minecraftforge.classloading.FMLForgePlugin}
+[00:13:19] [main/DEBUG] [FML/]: Running coremod plugin FMLForgePlugin
+[00:13:19] [main/DEBUG] [FML/]: Coremod plugin class FMLForgePlugin run successfully
+[00:13:19] [main/INFO] [LaunchWrapper/]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
+[00:13:19] [main/DEBUG] [FML/]: Loaded 195 rules from AccessTransformer config file forge_at.cfg
+[00:13:19] [main/DEBUG] [FML/]: Validating minecraft
+[00:13:19] [main/DEBUG] [FML/]: Minecraft validated, launching...
+[00:13:19] [main/INFO] [LaunchWrapper/]: Loading tweak class name net.minecraftforge.fml.common.launcher.TerminalTweaker
+[00:13:19] [main/INFO] [LaunchWrapper/]: Calling tweak class net.minecraftforge.fml.common.launcher.TerminalTweaker
+[00:13:19] [main/INFO] [LaunchWrapper/]: Launching wrapped minecraft {net.minecraft.server.MinecraftServer}
+[00:13:24] [main/DEBUG] [FML/]: Creating vanilla freeze snapshot
+[00:13:24] [main/DEBUG] [FML/]: Vanilla freeze snapshot created
+[00:13:25] [Server thread/INFO] [FML/]: MinecraftForge v12.18.3.2185 Initialized
+[00:13:25] [Server thread/INFO] [FML/]: Replaced 231 ore recipes
+[00:13:25] [Server thread/DEBUG] [FML/]: No config directory found, creating one: F:\Minecraft\Server\1.10.2MOD\config
+[00:13:25] [Server thread/INFO] [FML/]: Config directory created successfully
+[00:13:25] [Server thread/DEBUG] [FML/]: File F:\Minecraft\Server\1.10.2MOD\config\injectedDependencies.json not found. No dependencies injected
+[00:13:26] [Server thread/DEBUG] [FML/]: Building injected Mod Containers [net.minecraftforge.fml.common.FMLContainer, net.minecraftforge.common.ForgeModContainer]
+[00:13:26] [Server thread/DEBUG] [FML/]: Attempting to load mods contained in the minecraft jar file and associated classes
+[00:13:26] [Server thread/DEBUG] [FML/]: Minecraft is a file at F:\Minecraft\Server\1.10.2MOD\forge-1.10.2-12.18.3.2185-universal.jar, loading
+[00:13:26] [Server thread/DEBUG] [FML/]: Minecraft jar mods loaded successfully
+[00:13:26] [Server thread/INFO] [FML/]: Found 0 mods from the command line. Injecting into mod discoverer
+[00:13:26] [Server thread/INFO] [FML/]: Searching F:\Minecraft\Server\1.10.2MOD\mods for mods
+[00:13:26] [Server thread/DEBUG] [FML/]: Examining file forge-1.10.2-12.18.3.2185-universal.jar for potential mods
+[00:13:26] [Server thread/DEBUG] [FML/]: The mod container forge-1.10.2-12.18.3.2185-universal.jar appears to be missing an mcmod.info file
+[00:13:26] [Server thread/INFO] [FML/]: Forge Mod Loader has identified 3 mods to load
+[00:13:26] [Server thread/TRACE] [FML/]: Received a system property request ''
+[00:13:26] [Server thread/TRACE] [FML/]: System property request managing the state of 0 mods
+[00:13:26] [Server thread/DEBUG] [FML/]: After merging, found state information for 0 mods
+[00:13:26] [Server thread/TRACE] [FML/]: Verifying mod requirements are satisfied
+[00:13:26] [Server thread/TRACE] [FML/]: All mod requirements are satisfied
+[00:13:26] [Server thread/TRACE] [FML/]: Sorting mods into an ordered list
+[00:13:26] [Server thread/TRACE] [FML/]: Mod sorting completed successfully
+[00:13:26] [Server thread/DEBUG] [FML/]: Mod sorting data
+[00:13:26] [Server thread/DEBUG] [FML/]: No user mods found to sort
+[00:13:26] [Server thread/DEBUG] [FML/]: Loading @Config anotation data
+[00:13:26] [Server thread/TRACE] [mcp/mcp]: Sending event FMLConstructionEvent to mod mcp
+[00:13:26] [Server thread/TRACE] [mcp/mcp]: Sent event FMLConstructionEvent to mod mcp
+[00:13:26] [Server thread/DEBUG] [FML/]: Bar Step: Construction - Minecraft Coder Pack took 0.002s
+[00:13:26] [Server thread/TRACE] [FML/FML]: Sending event FMLConstructionEvent to mod FML
+[00:13:27] [Server thread/TRACE] [FML/FML]: Mod FML is using network checker : Invoking method checkModLists
+[00:13:27] [Server thread/TRACE] [FML/FML]: Testing mod FML to verify it accepts its own version in a remote connection
+[00:13:27] [Server thread/TRACE] [FML/FML]: The mod FML accepts its own version (8.0.99.99)
+[00:13:27] [Server thread/INFO] [FML/FML]: Attempting connection with missing mods [mcp, FML, Forge] at CLIENT
+[00:13:27] [Server thread/INFO] [FML/FML]: Attempting connection with missing mods [mcp, FML, Forge] at SERVER
+[00:13:27] [Server thread/TRACE] [FML/FML]: Sent event FMLConstructionEvent to mod FML
+[00:13:27] [Server thread/DEBUG] [FML/]: Bar Step: Construction - Forge Mod Loader took 0.551s
+[00:13:27] [Server thread/TRACE] [Forge/Forge]: Sending event FMLConstructionEvent to mod Forge
+[00:13:27] [Server thread/DEBUG] [Forge/Forge]: Preloading CrashReport Classes
+[00:13:27] [Server thread/DEBUG] [Forge/Forge]: 	net/minecraftforge/fml/client/SplashProgress$1
+[00:13:27] [Server thread/DEBUG] [Forge/Forge]: 	net/minecraftforge/fml/common/FMLCommonHandler$1
+[00:13:27] [Server thread/DEBUG] [Forge/Forge]: 	net/minecraftforge/fml/common/Loader$3
+[00:13:27] [Server thread/TRACE] [FML/Forge]: Mod Forge is using network checker : No network checking performed
+[00:13:27] [Server thread/TRACE] [FML/Forge]: Testing mod Forge to verify it accepts its own version in a remote connection
+[00:13:27] [Server thread/TRACE] [FML/Forge]: The mod Forge accepts its own version (12.18.3.2185)
+[00:13:27] [Server thread/DEBUG] [FML/Forge]: Attempting to inject @Config classes into Forge for type INSTANCE
+[00:13:27] [Server thread/TRACE] [Forge/Forge]: Sent event FMLConstructionEvent to mod Forge
+[00:13:27] [Server thread/DEBUG] [FML/]: Bar Step: Construction - Minecraft Forge took 0.019s
+[00:13:27] [Server thread/DEBUG] [FML/]: Bar Finished: Construction took 0.572s
+[00:13:27] [Server thread/DEBUG] [FML/]: Mod signature data
+[00:13:27] [Server thread/DEBUG] [FML/]:  	Valid Signatures:
+[00:13:27] [Server thread/DEBUG] [FML/]: 		(e3c3d50c7c986df74c645c0ac54639741c90a557) FML	(Forge Mod Loader	8.0.99.99)	forge-1.10.2-12.18.3.2185-universal.jar
+[00:13:27] [Server thread/DEBUG] [FML/]: 		(e3c3d50c7c986df74c645c0ac54639741c90a557) Forge	(Minecraft Forge	12.18.3.2185)	forge-1.10.2-12.18.3.2185-universal.jar
+[00:13:27] [Server thread/DEBUG] [FML/]:  	Missing Signatures:
+[00:13:27] [Server thread/DEBUG] [FML/]: 		mcp	(Minecraft Coder Pack	9.19)	minecraft.jar
+[00:13:27] [Server thread/INFO] [FML/]: Processing ObjectHolder annotations
+[00:13:27] [Server thread/INFO] [FML/]: Found 423 ObjectHolder annotations
+[00:13:27] [Server thread/INFO] [FML/]: Identifying ItemStackHolder annotations
+[00:13:27] [Server thread/INFO] [FML/]: Found 0 ItemStackHolder annotations
+[00:13:27] [Server thread/INFO] [FML/]: Applying holder lookups
+[00:13:27] [Server thread/INFO] [FML/]: Holder lookups applied
+[00:13:27] [Server thread/INFO] [FML/]: Applying holder lookups
+[00:13:27] [Server thread/INFO] [FML/]: Holder lookups applied
+[00:13:27] [Server thread/INFO] [FML/]: Applying holder lookups
+[00:13:27] [Server thread/INFO] [FML/]: Holder lookups applied
+[00:13:27] [Server thread/TRACE] [mcp/mcp]: Sending event FMLPreInitializationEvent to mod mcp
+[00:13:27] [Server thread/TRACE] [mcp/mcp]: Sent event FMLPreInitializationEvent to mod mcp
+[00:13:27] [Server thread/DEBUG] [FML/]: Bar Step: PreInitialization - Minecraft Coder Pack took 0.001s
+[00:13:27] [Server thread/TRACE] [FML/FML]: Sending event FMLPreInitializationEvent to mod FML
+[00:13:27] [Server thread/TRACE] [FML/FML]: Sent event FMLPreInitializationEvent to mod FML
+[00:13:27] [Server thread/DEBUG] [FML/]: Bar Step: PreInitialization - Forge Mod Loader took 0.150s
+[00:13:27] [Server thread/TRACE] [Forge/Forge]: Sending event FMLPreInitializationEvent to mod Forge
+[00:13:27] [Server thread/INFO] [FML/Forge]: Configured a dormant chunk cache size of 0
+[00:13:27] [Server thread/TRACE] [Forge/Forge]: Sent event FMLPreInitializationEvent to mod Forge
+[00:13:27] [Server thread/DEBUG] [FML/]: Bar Step: PreInitialization - Minecraft Forge took 0.086s
+[00:13:27] [Server thread/DEBUG] [FML/]: Bar Finished: PreInitialization took 0.236s
+[00:13:27] [Server thread/INFO] [FML/]: Applying holder lookups
+[00:13:27] [Forge Version Check/INFO] [ForgeVersionCheck/Forge]: [Forge] Starting version check at http://files.minecraftforge.net/maven/net/minecraftforge/forge/promotions_slim.json
+[00:13:27] [Server thread/INFO] [FML/]: Holder lookups applied
+[00:13:27] [Server thread/INFO] [FML/]: Injecting itemstacks
+[00:13:27] [Server thread/INFO] [FML/]: Itemstack injection complete
+[00:13:27] [Server thread/WARN] [FML/]: Can't revert to frozen GameData state without freezing first.
+[00:13:27] [Server thread/TRACE] [mcp/mcp]: Sending event FMLServerStoppedEvent to mod mcp
+[00:13:27] [Server thread/TRACE] [mcp/mcp]: Sent event FMLServerStoppedEvent to mod mcp
+[00:13:27] [Server thread/DEBUG] [FML/]: Bar Step: ServerStopped - Minecraft Coder Pack took 0.000s
+[00:13:27] [Server thread/TRACE] [FML/FML]: Sending event FMLServerStoppedEvent to mod FML
+[00:13:27] [Server thread/TRACE] [FML/FML]: Sent event FMLServerStoppedEvent to mod FML
+[00:13:27] [Server thread/DEBUG] [FML/]: Bar Step: ServerStopped - Forge Mod Loader took 0.001s
+[00:13:27] [Server thread/TRACE] [Forge/Forge]: Sending event FMLServerStoppedEvent to mod Forge
+[00:13:27] [Server thread/TRACE] [Forge/Forge]: Sent event FMLServerStoppedEvent to mod Forge
+[00:13:27] [Server thread/DEBUG] [FML/]: Bar Step: ServerStopped - Minecraft Forge took 0.001s
+[00:13:27] [Server thread/DEBUG] [FML/]: Bar Finished: ServerStopped took 0.001s
+[00:13:27] [Server thread/INFO] [FML/]: The state engine was in incorrect state POSTINITIALIZATION and forced into state SERVER_STOPPED. Errors may have been discarded.
